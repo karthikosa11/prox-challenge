@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: omnipro-220-assistant
+    runtime: python
+    buildCommand: pip install uv && uv sync
+    startCommand: uv run python main.py
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
