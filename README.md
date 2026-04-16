@@ -2,6 +2,10 @@
 
 A multimodal welding assistant built on the Claude Agent SDK. Ask it anything about the OmniPro 220 and it answers with actual visuals — wiring diagrams, interactive calculators, troubleshooting flowcharts — not just text.
 
+**Live demo:** https://prox-challenge-aows.onrender.com
+
+**Video walkthrough:** https://1drv.ms/v/c/2d2c63f12934d91b/IQC4PPk6cq77S7ObL5BZXo8wATUev8pKlCjglnTgX5guKeo?e=YovuMq
+
 <img src="product.webp" alt="Vulcan OmniPro 220" width="380" /> <img src="product-inside.webp" alt="Inside panel" width="380" />
 
 ## Getting started
